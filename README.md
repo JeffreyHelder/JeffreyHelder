@@ -23,5 +23,6 @@ To summarize, I make a bunch of flow charts, design files, and frontend + stylin
 - And finally I've recently taken up media-creation as a hobby
 
 ### Closing 
-    My goal every night is to be better than I was that morning. A day without learning is a day wasted. Coffee.
+My goal every night is to be better than I was that morning. A day without learning is a day wasted. <br />
+Coffee.
 
