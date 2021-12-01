@@ -9,7 +9,7 @@ ___
 My main goal is to work my way up to be a Software Engineer, but that doesn't happen overnight!  
 One day I'll settle down to teach... or maybe start my own company/studio. Depends how ambitious I feel after all this ;)  
 Checkout my [website](https://www.jeffreyhelder.com/).  
-**New site coming 2021** to showcase my non-stop progress!
+**New site coming 2021** to showcase my non-stop progress! (_Check out my pinned repos below._)
 ___
 
 #### I'm a full-time Intermediate Web Developer
