@@ -1,7 +1,11 @@
 # Hi, I’m Jeffrey Helder
 Full-time Web Developer
 ___
-### About
+### Why Is My Github so Bare Now?
+I did some spring cleaning! I kept some original repo's from when I started learning web development, for sentimental reasons of course, then I cleared out all the unfinished/partial projects, then I got rid of all the projects that I feel don't reflect how I code now. So.. that was a lot.  
+**Starting fresh.** Now moving ahead, I want to dedicate my GitHub page to my personal website code and future courses.
+___
+### About ME
 My main goal is to work my way up to be a Software Engineer, but that doesn't happen overnight!  
 Checkout my [website](https://www.jeffreyhelder.com/).  
 **New site coming 2021** to showcase my non-stop progress!
