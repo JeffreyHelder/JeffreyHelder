@@ -8,7 +8,7 @@ ___
 ### About Me
 My main goal is to create cutting edge software, that hopfully improves or changes peoples lives.
 One day I'll settle down to teach... or maybe start my own company/studio.
-Checkout my [website](https://www.jeffreyhelder.com/).  
+Checkout my [website](https://www.libristech.com/).  
 ___
 
 #### I'm a full-time Intermediate Web Developer
@@ -16,10 +16,10 @@ This means I get to work with web technologies everyday such as:
 -React  
 -Typescript  
 -Javascript  
--UX design and strategy  
--UI and web design  
+-UI design and development
+-UX strategy and Web design
 
-To summarize, I make a bunch of flow charts, design files, and frontend + styling code.
+To summarize, I make responsive, reusable React components, and flow charts, design files, and prototypes.
 ___
 #### On my spare time I,
 -do a lot of courses, tutorials, and self teaching  
