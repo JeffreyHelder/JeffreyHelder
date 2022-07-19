@@ -8,7 +8,7 @@ ___
 ### About Me
 My main goal is to create cutting edge software, that hopfully improves or changes peoples lives.
 One day I'll settle down to teach... or maybe start my own company/studio.
-Checkout my [website](https://www.libristech.com/).  
+Checkout my [website](https://www.tellemore.tech/).  
 ___
 
 #### I'm a full-time Intermediate Web Developer
@@ -24,7 +24,7 @@ ___
 #### On my spare time I,
 -do a lot of courses, tutorials, and self teaching  
 -play video games  
--find myself planning future projects
+-find myself planning future projects  
 -sip craft beer on a patio (stouts and coffee porters are my favorite)  
 -And finally I've recently taken up media-creation as a hobby  
 ___
