@@ -16,7 +16,7 @@ This means I get to work with web technologies everyday such as:
 -React  
 -Typescript  
 -Javascript  
--UI design and development
+-UI design and development  
 -UX strategy and Web design
 
 To summarize, I make responsive, reusable React components, and flow charts, design files, and prototypes.
